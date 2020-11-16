@@ -28,7 +28,7 @@ no,nickname,sex,user,date,mode,tiku,unitname,note
 26,zhenchunxue,0,371d81a6e361b8516dc9810f19eab219,1999-09-09 09:09:00,unkown,2,shijiazhuang,0
 27,wuhongfeng,0,d80755c74dc7d598e094468374633cca,1999-09-09 09:09:00,unkown,2,shijiazhuang,0
 28,jiangyani,0,995e6ef0868cb6acc8e3be8bf63d4e1f,1999-09-09 09:09:00,unkown,2,changsha,0
-29,liuyishan,0,46d02bae7534e3457025213a0d4efca4,2020-09-23 19:51:00,smks,0,zhuzhou0233,399
+29,liuyishan,0,46d02bae7534e3457025213a0d4efca4,2021-11-23 19:51:00,smks,0,zhuzhou0233,699
 30,huangting,0,89ca83b262578136c80ca2cfa539e2dd,2020-09-23 19:51:00,smks,0,zhuzhou3988,399
 31,lihuixin,0,f7fc5b6bca702363fd8a6d650b1f86fa,2020-12-12 12:32:00,zjks,1,beijing2590,0
 32,tongna,0,ee8c841582f9b1f4d76c097292acd265,2020-08-26 21:00:00,smks,1,yueyang9908,399
@@ -105,7 +105,7 @@ no,nickname,sex,user,date,mode,tiku,unitname,note
 103,caijing,0,f1b600e590af22a0b7968b7d57bf73cb,2021-09-03 23:59:00,smks,0,taiyuan-5595,399
 104,lengyiwen,0,1d895ad9d8a281a50584e627c37857cf,2021-09-03 23:59:00,smks,1,jiujiang-1666,399
 105,pengxiaoyi,1,1cf38427bd7186af13f531232d1ba739,2021-09-20 23:59:00,smks,1,yueyang,200
-106,liuwanxin,0,5763c5835403d936eaee1606a296d7f9,2021-10-28 23:59:00,smks,1,chagnde,200
-107,dengziwei,0,444c05d91db60dcab14f8aec22fdb57b,2021-08-30 23:59:00,smks,1,changde,150
+106,liuwanxin,0,5763c5835403d936eaee1606a296d7f9,2020-11-09 23:59:00,smks,1,chagnde,0
+107,dengziwei,0,444c05d91db60dcab14f8aec22fdb57b,2021-08-30 23:59:00,smks,1,changde,299
 108,gaoqingqing,0,d1e5f1848f5219b040ca1808e5d53a7f,2021-12-31 23:59:00,smks,1,yanan,299
 109,yangqi,0,1e3858d9dd4b259ff3bf415308fe089c,2021-05-08 23:59:00,smks,1,chagnde,150
