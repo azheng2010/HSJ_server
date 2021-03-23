@@ -39,7 +39,7 @@ no,nickname,sex,user,date,mode,tiku,unitname,note
 37,tongna,0,ee8c841582f9b1f4d76c097292acd265,2022-02-21 21:00:00,smks,1,yueyang9908,200
 38,sufeng,0,6382a165dae9112396dc4a97db1c38b1,2022-02-21 21:00:00,smks,1,yueyang7756,200
 39,piyanyang,0,e2b69f3a2da5f4f2be844f5188a2d40b,2020-08-26 22:00:00,smks,1,yueyang7756,399
-40,chenyiqiang,1,3f28db332bd8813e10338a7e8c2feb83,2020-08-26 21:00:00,smks,1,yueyang4898,399
+40,chenyiqiang,1,3f28db332bd8813e10338a7e8c2feb83,2022-02-21 21:00:00,smks,1,yueyang4898,200
 41,wangtiming,1,3b1ad6c35e6b0c296491f0840c37fa55,2020-08-26 22:00:00,smks,1,yueyang7756,0
 42,ouyangxingfu,0,7d449ed696a47feb64629ce47a3aa397,2020-07-27 19:51:00,zjks,1,pingjiang-4622,0
 43,laichugui,0,0133c1fbce9fbb8d013dd794c1c8aa68,2022-02-21 21:00:00,smks,1,yueyang4112,200
@@ -94,7 +94,7 @@ no,nickname,sex,user,date,mode,tiku,unitname,note
 92,tiantian,0,b5eb9b3f85a540bc5f0d5ccf5c4d65fe,2021-03-12 23:38:00,zjks,1,zhuzhou3332,299
 93,zhousi,0,416463f60264d177cf3dcab9f606ceb2,2021-03-12 23:38:00,zjks,1,zhuzhou6705,299
 94,guotingting,0,eec8510797f1bdcdb1ac67a88b0b030c,2021-03-12 23:38:00,zjks,1,zhuzhou5758,299
-95,kuangqiaoli,0,ca7a907529ea4857537edc40a89cfc1b,2021-03-12 23:38:00,zjks,1,zhuzhou4411,300
+95,kuangqiaoli,0,ca7a907529ea4857537edc40a89cfc1b,2022-03-12 23:38:00,zjks,1,zhuzhou4411,299
 96,wangguihong,1,c1608ba40667fb0d3fa4c8eaf019e15c,2021-04-09 23:38:00,zjks,0,handan8130,399
 97,jiaxiaochen,0,6824d384d0625d499a7be3c759144cfa,2021-06-06 23:38:00,zjks,1,cangzhou1796,150
 98,wangguiqin,0,7f062004729dbe05bcb7e5280389226e,2021-06-06 23:38:00,zjks,1,cangzhou1796,0
